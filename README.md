@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @choongwanlin
-- 👀 I’m interested in data science and software development!
-- 🌱 I’m currently learning Java!
-- 💞️ I’m looking to collaborate on Java projects to improve my Java skills!
+- 👀 I’m interested in data science and analytics!
+- 🌱 I’m currently in my final year of university, majoring in Business Analytics.
+- 💞️ Constantly improve on my machine learning skills.
 - 📫 Connect with me on LinkedIn :)
 
 <!---
