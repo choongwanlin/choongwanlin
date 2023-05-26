@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @choongwanlin
-- 👀 I’m interested in data science and analytics!
-- 🌱 I’m currently in my final year of university, majoring in Business Analytics.
-- 💞️ Constantly improve on my machine learning skills.
+- 👋 Hi, I’m @choongwanlin.
+- 👀 I’m interested programming and I can't wait to learn more!
+- 💞️ My favourite food is salad.
 - 📫 Connect with me on LinkedIn :)
 
 <!---
